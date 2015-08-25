@@ -1,0 +1,262 @@
+.america, .arabia, .assyria, .austria, .aztec, .babylon, .brazil, .byzantium, .carthage, .celts, .china, .denmark, .egypt, .england, .ethiopia, .france, .germany, .greece, .huns, .inca, .india, .indonesia, .iroquois, .japan, .korea, .maya, .mongolia, .morocco, .netherlands, .ottoman, .persia, .poland, .polynesia, .portugal, .rome, .russia, .shoshone, .siam, .songhai, .spain, .sweden, .venice, .zulu{
+	background: url(../img/sprites/civ-icons.png) no-repeat;
+}
+
+.america{
+	background-position: 0 0;
+	width: 160px;
+	height: 160px;
+}
+
+.arabia{
+	background-position: -160px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.assyria{
+	background-position: -320px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.austria{
+	background-position: -480px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.aztec{
+	background-position: -640px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.babylon{
+	background-position: -800px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.brazil{
+	background-position: -960px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.byzantium{
+	background-position: -1120px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.carthage{
+	background-position: 0 -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.celts{
+	background-position: -160px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.china{
+	background-position: -320px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.denmark{
+	background-position: -480px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.egypt{
+	background-position: -640px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.england{
+	background-position: -800px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.ethiopia{
+	background-position: -960px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.france{
+	background-position: -1120px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.germany{
+	background-position: 0 -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.greece{
+	background-position: -160px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.huns{
+	background-position: -320px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.inca{
+	background-position: -480px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.india{
+	background-position: -640px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.indonesia{
+	background-position: -800px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.iroquois{
+	background-position: -960px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.japan{
+	background-position: -1120px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.korea{
+	background-position: 0 -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.maya{
+	background-position: -160px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.mongolia{
+	background-position: -320px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.morocco{
+	background-position: -480px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.netherlands{
+	background-position: -640px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.ottoman{
+	background-position: -800px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.persia{
+	background-position: -960px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.poland{
+	background-position: -1120px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.polynesia{
+	background-position: 0 -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.portugal{
+	background-position: -160px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.rome{
+	background-position: -320px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.russia{
+	background-position: -480px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.shoshone{
+	background-position: -640px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.siam{
+	background-position: -800px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.songhai{
+	background-position: -960px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.spain{
+	background-position: -1120px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.sweden{
+	background-position: 0 -800px ;
+	width: 160px;
+	height: 160px;
+}
+
+.venice{
+	background-position: -160px -800px ;
+	width: 160px;
+	height: 160px;
+}
+
+.zulu{
+	background-position: -320px -800px ;
+	width: 160px;
+	height: 160px;
+}
+

@@ -1,0 +1,262 @@
+.ahmad, .alexander, .ashurbanipal, .askia, .attila, .augustus, .bismarck, .boudicca, .casimir, .catherine, .darius, .dido, .elizabeth, .enrico, .gaja, .gandhi, .genghis, .gustavus, .haile, .harald, .harun, .hiawatha, .isabella, .kamehameha, .maria, .maria_theresa, .montezuma, .napoleon, .nebuchadnezzar, .oda, .pacal, .pachacuti, .pedro, .pocatello, .ramesses, .ramkhamhaeng, .sejong, .shaka, .suleiman, .theodora, .washington, .william, .wu{
+	background: url(../img/sprites/leaders.png) no-repeat;
+}
+
+.ahmad{
+	background-position: 0 0;
+	width: 160px;
+	height: 160px;
+}
+
+.alexander{
+	background-position: -160px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.ashurbanipal{
+	background-position: -320px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.askia{
+	background-position: -480px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.attila{
+	background-position: -640px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.augustus{
+	background-position: -800.0000152587891px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.bismarck{
+	background-position: -960.0000381469727px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.boudicca{
+	background-position: -1120px 0;
+	width: 160px;
+	height: 160px;
+}
+
+.casimir{
+	background-position: 0 -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.catherine{
+	background-position: -160.00000762939453px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.darius{
+	background-position: -320.00000762939453px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.dido{
+	background-position: -480.00003814697266px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.elizabeth{
+	background-position: -640.0000152587891px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.enrico{
+	background-position: -800px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.gaja{
+	background-position: -960px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.gandhi{
+	background-position: -1120px -160px ;
+	width: 160px;
+	height: 160px;
+}
+
+.genghis{
+	background-position: 0 -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.gustavus{
+	background-position: -160px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.haile{
+	background-position: -320px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.harald{
+	background-position: -480px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.harun{
+	background-position: -640px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.hiawatha{
+	background-position: -800px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.isabella{
+	background-position: -960px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.kamehameha{
+	background-position: -1120px -320px ;
+	width: 160px;
+	height: 160px;
+}
+
+.maria{
+	background-position: 0 -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.maria_theresa{
+	background-position: -160px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.montezuma{
+	background-position: -320px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.napoleon{
+	background-position: -480px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.nebuchadnezzar{
+	background-position: -640px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.oda{
+	background-position: -800px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.pacal{
+	background-position: -960px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.pachacuti{
+	background-position: -1120px -480px ;
+	width: 160px;
+	height: 160px;
+}
+
+.pedro{
+	background-position: 0 -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.pocatello{
+	background-position: -160px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.ramesses{
+	background-position: -320px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.ramkhamhaeng{
+	background-position: -480px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.sejong{
+	background-position: -640px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.shaka{
+	background-position: -799px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.suleiman{
+	background-position: -960px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.theodora{
+	background-position: -1120px -640px ;
+	width: 160px;
+	height: 160px;
+}
+
+.washington{
+	background-position: 0 -800px ;
+	width: 160px;
+	height: 160px;
+}
+
+.william{
+	background-position: -160px -800px ;
+	width: 160px;
+	height: 160px;
+}
+
+.wu{
+	background-position: -320px -800px ;
+	width: 160px;
+	height: 160px;
+}
+
