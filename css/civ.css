@@ -47,10 +47,13 @@ CIV LEADERS
 *************************************/
 .civs {
 	min-height: 500px;
-	width: 100%
+	width: 100%;
 }
 .civs .container {
 	width:100%;
+}
+.searchbox {
+	overflow: auto;
 }
 .search, .random {
 	float:left;
